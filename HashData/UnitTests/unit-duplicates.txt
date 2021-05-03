@@ -1,0 +1,10 @@
+k 10 13 HashData-duplicates.txt n y n
+
+unit-duplicates
+
+0: (zucchini, lit)
+3: (lite)
+4: (zoom_lens, liter)
+6: (litany)
+7: (zoom)
+8: (list_price)
