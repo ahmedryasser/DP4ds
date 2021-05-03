@@ -1,0 +1,23 @@
+n 1.1 n 2.2 n 3.3 n 4.4
+w d w d w d w d w q
+
+unit-dequeue
+
+Head --> Tail
+(1.1, 2.2, 3.3, 4.4)
+
+Value dequeued: 1.1
+Head --> Tail
+(2.2, 3.3, 4.4)
+
+Value dequeued: 2.2
+Head --> Tail
+(3.3, 4.4)
+
+Value dequeued: 3.3
+Head --> Tail
+(4.4)
+
+Value dequeued: 4.4
+Head --> Tail
+()

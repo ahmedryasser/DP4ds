@@ -1,0 +1,23 @@
+w e n 1.1 w e n 2.2 w e d w e d w e q
+
+unit-isEmpty
+
+Head --> Tail
+()
+The queue is empty.
+
+Head --> Tail
+(1.1)
+The queue is not empty.
+
+Head --> Tail
+(1.1, 2.2)
+The queue is not empty.
+
+Head --> Tail
+(2.2)
+The queue is not empty.
+
+Head --> Tail
+()
+The queue is empty.
