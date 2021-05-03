@@ -1,0 +1,22 @@
+w c s
+a 11 a 22 w c s
+f numbers w c s
+a 33 a 44 w c s q
+
+VectorT unit-fileAppend
+
+()
+The capacity is 1
+The size is 0
+
+(11, 22)
+The capacity is 2
+The size is 2
+
+(11, 22, 10, 20, 30, 40, 50)
+The capacity is 8
+The size is 7
+
+(11, 22, 10, 20, 30, 40, 50, 33, 44)
+The capacity is 16
+The size is 9

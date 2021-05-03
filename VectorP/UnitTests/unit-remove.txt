@@ -1,0 +1,40 @@
+a 10 a 20 a 30 a 40 a 50 a 60 a 70 w c s
+r 0 w c s
+r 1 w c s
+r 4 w c s
+r 0 r 0 r 0 w c s
+r 0 w c s
+q
+
+VectorP unit-remove
+
+(10, 20, 30, 40, 50, 60, 70)
+The capacity is 8
+The size is 7
+
+10 removed.
+(20, 30, 40, 50, 60, 70)
+The capacity is 8
+The size is 6
+
+30 removed.
+(20, 40, 50, 60, 70)
+The capacity is 8
+The size is 5
+
+70 removed.
+(20, 40, 50, 60)
+The capacity is 8
+The size is 4
+
+20 removed.
+40 removed.
+50 removed.
+(60)
+The capacity is 8
+The size is 1
+
+60 removed.
+()
+The capacity is 8
+The size is 0
